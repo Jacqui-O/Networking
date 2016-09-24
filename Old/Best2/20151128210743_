@@ -1,0 +1,59 @@
+HTTP/1.1 200 OK
+Server: Apache
+Last-Modified: Wed, 25 Nov 2015 21:34:43 GMT
+ETag: "106b8bc79-fad7-5256439f86018"
+Vary: Accept-Encoding
+Content-Type: text/html
+X-Backend: public_director
+X-BackendName: public_static1v2
+X-Cacheable: YES
+Transfer-Encoding: chunked
+Date: Sun, 29 Nov 2015 03:07:43 GMT
+X-Varnish: 1316305076 1316304310
+Age: 113
+Via: 1.1 varnish
+Connection: keep-alive
+X-Served-By: staticcache1v1
+X-Cache: HIT
+
+008000
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+	<title>UNT | University of North Texas</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<meta name="Description" content="UNT is a student-focused, public, research university located in Denton, Texas. As one of Texas' largest universities, we offer 99 bachelor's, 83 master's and 36 doctoral degree programs within the university's 12 colleges and schools." />
+	<meta name="Keywords" content="University of North Texas, UNT" />
+	<meta name="Author" content="State of Texas, University of North Texas, University Relations, Communications and Marketing" />
+    
+	<link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Montserrat:400,700'/>
+	<!--link rel='stylesheet' type='text/css' href='css/jquery.fancybox.css' media='all' /-->
+	<!--link rel='stylesheet' type='text/css' href='css/print.css' media='print.css' /-->
+
+	<style type="text/css">
+	/* THESE ARE THE STYLES FOR THE CIRCLE, AT 135px */
+	.circle-header {
+		margin: 30px 0 3px 0;
+		font-size: 14px;
+		line-height: 16px;
+	}
+	
+	.circle-copy {
+		margin: 0;
+		padding: 0;
+		font-size: 12px;
+		line-height: 14px;
+	}
+	
+	.circle-weather .circle-header {
+		margin: 15px 0 5px 0;
+		font-size: 16px;
+		line-height: 20px;
+	}
+	
+	.circle-weather .circle-copy {
+GET  / HTTP/1.1
+Host: www.unt.edu
+

@@ -1,0 +1,37 @@
+Dijkstra's Algorithm
+Router Z:
+y (z, y)
+x (z, y)
+w (z, y)
+v (z, y)
+u (z, y)
+Router Y:
+z (y, z)
+x (y, x)
+w (y, w)
+v (y, x)
+u (y, x)
+Router X:
+z (x, y)
+y (x, y)
+w (x, y)
+v (x, v)
+u (x, u)
+Router W:
+z (w, y)
+y (w, y)
+x (w, y)
+v (w, v)
+u (w, x)
+Router V:
+z (v, x)
+y (v, x)
+x (v, x)
+w (v, w)
+u (v, u)
+Router U:
+z (u, x)
+y (u, x)
+x (u, x)
+w (u, v)
+v (u, v)

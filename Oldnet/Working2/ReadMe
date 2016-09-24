@@ -1,0 +1,7 @@
+ReadMe
+To run the server and client, open cse01 and cse02.
+On cse01, run the server by typing "./server"
+
+On cse02, run the client by typing "./client cse01 cse02"
+
+The server and client will pause during execution. Press Enter on the server side,then press Enter on the client side.

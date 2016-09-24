@@ -1,0 +1,31 @@
+HTTP/1.1 301 Redirect
+Date: Sun, 29 Nov 2015 03:03:19 GMT
+Via: http/1.1 ir12.fp.ne1.yahoo.com (ApacheTrafficServer)
+Server: ATS
+Location: https://www.yahoo.com/
+Content-Type: text/html
+Content-Language: en
+Cache-Control: no-store, no-cache
+Connection: keep-alive
+Y-Trace: BAEAQAAAAAAWjcSe9eTL_gAAAAAAAAAAZ8t68Z36AtAAAAAAAAAAAAAFJaUqqUw7AAUlpSqpUQsYmRXRAAAAAA--
+Content-Length: 375
+
+<HTML>
+<HEAD>
+<TITLE>Error</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="white" FGCOLOR="black">
+<!-- status code : 301 -->
+<!-- Error: GET -->
+<!-- host machine: ir12.fp.ne1.yahoo.com -->
+<!-- timestamp: 1448766199.000 -->
+<!-- url: http://www.yahoo.com/-->
+<H1>Error</H1>
+<HR>
+
+<FONT FACE="Helvetica,Arial"><B>
+Description: Could not process this "GET" request.
+</B></FONT>
+<HR>
+</BODY>

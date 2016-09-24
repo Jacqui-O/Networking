@@ -1,0 +1,24 @@
+HTTP/1.1 403 Forbidden
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 264
+Expires: Sun, 29 Nov 2015 03:07:55 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Sun, 29 Nov 2015 03:07:55 GMT
+Connection: close
+Set-Cookie: SSLB=0; expires=Sun, 29-Nov-2015 03:37:55 GMT; path=/; domain=.walmart.com
+Set-Cookie: akaau_P0=1448768275~id=feb88ffb91e11da6236d4a1d855fb569; path=/
+Origin-EX: 
+Origin-CC: 
+
+<HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;www&#46;walmart&#46;com&#47;" on this server.<P>
+Reference&#32;&#35;18&#46;c9875640&#46;1448766475&#46;14c7b03
+</BODY>
+</HTML>

@@ -1,0 +1,11 @@
+ReadMe
+***************************************************
+To run the server and client, open cse01 and cse02.
+On cse01, run the server by typing "./server"
+
+On cse02, run the client by typing "./client"
+
+There is a 1KB file called "Sample.txt". This file gets transmitted to the server.
+After both programs are run, a new file "recipe.txt" is created by the server. Inside are the contents of Sample.txt
+
+Another file, “list.txt” is also created. This file contains the TCP header segments.
